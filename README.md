@@ -1,11 +1,11 @@
-# Xpra HTML5 client
+# Xpra HTML5 client - Outdated, DO NOT USE
 
-This repository is a clone of the xpra HTML5 client found here:
+This repository was a clone of the xpra HTML5 client found here:
 [xpra.org](https://xpra.org/trac/wiki/Clients/HTML5).
 You can also browser the source [here](https://xpra.org/trac/browser/xpra/trunk/src/html5)
 through xpra's tracker which has the advantage of showing links for commits and tickets.
 
-Feel free to submit pull requests here, or through xpra's
+Please use xpra's bug tracker instead:
 [bug tracker](http://xpra.org/trac/wiki/ReportingBugs)
 
 To use it, you will need an xpra server, which you can start with:
